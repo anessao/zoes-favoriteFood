@@ -1,0 +1,12 @@
+body {
+  background-color: #ECF0F1; }
+  body .jumbotron {
+    background-color: #2C3E50;
+    color: white; }
+  body .btn {
+    background-color: #E74C3C;
+    font-size: 5rem;
+    font-weight: bold; }
+  body img {
+    border-radius: 300px;
+    margin: 30px; }

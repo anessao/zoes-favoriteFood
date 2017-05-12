@@ -1,0 +1,19 @@
+@import "colors";
+@import "fonts";
+
+body {
+	background-color: $light;
+	.jumbotron {
+		background-color: $darkBlue;
+		color: white;
+	}
+	.btn {
+		background-color: $darkRed;
+		font-size: 5rem;
+		font-weight: bold;
+	}
+	img {
+		border-radius: 300px;
+		margin: 30px;
+	}
+}
